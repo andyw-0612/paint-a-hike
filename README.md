@@ -26,11 +26,13 @@ in the root `pain-a-hike` directory to serve the backend.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+*Note that only the front-end will work. To make the backend function, you would need the dataset of images to query from.
+
 ## My Primary Contributions
 
 - **Backend Architecture & Development**: Designed and implemented the entire Python backend, including the hybrid search algorithm combining SegFormer mIOU scores with CLIP/Gemini text-embedding similarity.
 
-- **Frontend Development**: Built the frontend UI for the results page, results page using Next.js, TypeScript, and Framer-motion.
+- **Frontend Development**: Built the frontend UI for the results page, using Next.js, TypeScript, and Framer-motion.
 
 - **API Integration**: connected the front-end and the back-end using  FastAPI, utilizing it to send user inputs and model results between the front and back-end servers.
 
