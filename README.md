@@ -40,6 +40,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The core of this project is a hybrid search system that scores potential images based on two criteria: **spatial layout (what) and semantic context (what's next to what)**.
 
+<img width="1516" height="986" alt="paint-a-hike3" src="https://github.com/andyw-0612/paint-a-hike/blob/main/backend-diagram.png" />
 
 #### Offline: Database Pre-processing
 
